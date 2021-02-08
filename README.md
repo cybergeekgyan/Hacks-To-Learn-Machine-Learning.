@@ -26,14 +26,14 @@ Hey, but hold on a moment learning python is it a Hack? your thinking is correct
 * File Handling.
 * Object-Oriented Programming
 
-*After learning all the above topics you need to get your hands dirty with some third party libraries in python. which are useful in your Machine Learning Journey.
+*After learning all the above topics you need to get your hands dirty with some third party libraries in python. which are useful in your Machine Learning Journey.*
 * Numpy.
 * Pandas
 * Requests
 * BS4
 * Matplotlib
 
-*At this stage, you are good to go with dealing of high-level python modules for Machine Learning like
+*At this stage, you are good to go with dealing of high-level python modules for Machine Learning like*
 * Scikit Learn.
 * Tensorflow
 But wait for a moment Machine Learning is all about building a model with the help of Mathematical concepts. but when did you learn all those concepts? here comes your second hack.
@@ -45,26 +45,26 @@ The second Hack is about learning Mathematical Concepts.
 
 If you want your Machine Learning journey more fruitful and interesting. then you should definitely need to be familiar with mathematical concepts. but don’t worry you don’t need to be mastering it.
 
-*The Mathematical areas that are to be covered to understand Machine Learning Models are:
+*The Mathematical areas that are to be covered to understand Machine Learning Models are:*
 * Linear Algebra.
 * Calculus.
 * Probability and Statistics.
 * Linear Algebra:
 
-*The topics we need to focus on linear algebra are:
+*The topics we need to focus on linear algebra are:*
 * Matrices
 * Vectors
 * Scalars
 * Tensors
 * Calculus:
 
-*The Concepts that need to focus on Calculus are:
+*The Concepts that need to focus on Calculus are:*
 * Definite Integrals
 * Indefinite Integrals
 * Differential Calculus.
 * Probability And Statistics:
 
-*The Concepts that need to focus on Probability and Statistics are:
+*The Concepts that need to focus on Probability and Statistics are:*
 * Basics of Probability.
 * Mean, Median, Mode, Standard Deviation, Variance etc..
 * Testing of Hypothesis.
