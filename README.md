@@ -69,6 +69,7 @@ If you want your Machine Learning journey more fruitful and interesting. then yo
 * Mean, Median, Mode, Standard Deviation, Variance etc..
 * Testing of Hypothesis.
 
-If you are good at all the above topics. you feel easy while learning Machine Learning Algorithms.
-In the entire Machine Learning journey, the main important aspect is about understanding the mathematics that will help you to understand the models or algorithms.
+*If you are good at all the above topics. you feel easy while learning Machine Learning Algorithms.
+In the entire Machine Learning journey, the main important aspect is about understanding the mathematics that will help you to understand the models or algorithms.*
+
 After getting a good amount of knowledge on programming and Mathematics, here comes the most important and interesting part of the Machine Learning journey.
