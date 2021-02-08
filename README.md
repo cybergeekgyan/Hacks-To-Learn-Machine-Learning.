@@ -2,6 +2,8 @@
 
 ## Machine Learning journey from scratch to doing real-world projects.
 
+![alt text](https://github.com/gyanprakash0221/Top-Hacks-To-Learn-Machine-Learning./blob/main/pexels-alex-knight-2599244.jpg)
+
 Before revealing the real hacks to learn about Machine Learning. 
 I would like to give you a keynote that these hacks are applicable forthose people who are going to put efforts properly in a decent manner.
 
