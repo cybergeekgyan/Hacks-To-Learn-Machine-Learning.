@@ -45,6 +45,9 @@ But wait for a moment Machine Learning is all about building a model with the he
 
 The second Hack is about learning Mathematical Concepts.
 
+![alt text](https://github.com/gyanprakash0221/Top-Hacks-To-Learn-Machine-Learning./blob/main/0_fSBsnvJbDUUXdexJ%20(1).jpg)
+
+
 If you want your Machine Learning journey more fruitful and interesting. then you should definitely need to be familiar with mathematical concepts. but don’t worry you don’t need to be mastering it.
 
 *The Mathematical areas that are to be covered to understand Machine Learning Models are:*
@@ -75,3 +78,17 @@ If you want your Machine Learning journey more fruitful and interesting. then yo
 In the entire Machine Learning journey, the main important aspect is about understanding the mathematics that will help you to understand the models or algorithms.*
 
 After getting a good amount of knowledge on programming and Mathematics, here comes the most important and interesting part of the Machine Learning journey.
+
+
+### Hack 3:
+
+Don’t start building Machine Learning models directly first you need to do one more thing i.e before developing the models with the help of datasets or to solve real-world problems. you first learn about Machine Learning algorithms in a mathematical and theoretical way.
+Spend some time on learning topics like:
+Supervised Learning.
+Unsupervised Learning.
+Reinforcement Learning.
+Cover all the models from basic linear regression to the advanced convolutional neural network in a conceptual way. first just understand the procedure and use cases of a particular algorithm.
+One of the books I followed and loved to learn Machine Learning algorithms is “Machine Learning by TOM. M. MITCHEL”. but this book is available for a few Asian countries only. the final hack is that implementing the learned concepts.
+While learning the implementation part with the help of programming language. you feel more comfortable because you are already familiar with programming, Mathematics and Machine Learning algorithms. just you need to do is implementation. the implementation of algorithms can be done with the help of the most famous Python library called Scikit Learn.
+In this phase, you learn about all new things about Scikit learn and finally, you are able to build a Machine Learning model.
+But if you want to call yourself a Machine Learning Engineer definitely you should need to master above topics and you should need to do a minimum of 3–5 projects. from this knowledge you can able to explore another python libraries for Machine Learning easily by reading the library documentation.
