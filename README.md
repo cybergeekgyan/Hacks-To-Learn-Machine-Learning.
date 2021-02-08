@@ -92,7 +92,7 @@ Spend some time on learning topics like:
 Cover all the models from basic linear regression to the advanced convolutional neural network in a conceptual way. 
 first just understand the procedure and use cases of a particular algorithm.
 
-One of the books I followed and loved to learn Machine Learning algorithms is **“Machine Learning by TOM. M. MITCHEL”** download pdf(https://www.cin.ufpe.br/~cavmj/Machine%20-%20Learning%20-%20Tom%20Mitchell.pdf). but this book is available for a few Asian countries only. the final hack is that implementing the learned concepts.
+One of the books I followed and loved to learn Machine Learning algorithms is **“Machine Learning by TOM. M. MITCHEL”** [download pdf](https://www.cin.ufpe.br/~cavmj/Machine%20-%20Learning%20-%20Tom%20Mitchell.pdf). but this book is available for a few Asian countries only. the final hack is that implementing the learned concepts.
 
 While learning the implementation part with the help of programming language. you feel more comfortable because you are already familiar with programming, Mathematics and Machine Learning algorithms. just you need to do is implementation. the implementation of algorithms can be done with the help of the most famous Python library called Scikit Learn.
 
